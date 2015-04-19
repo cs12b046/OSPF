@@ -1,0 +1,3 @@
+i) Just put make i the terminal and ospf executable will be generated.
+ii)./ospf -i 0 -f input -o outfile -h 1 -a 5 -s 20
+ to run (at node o)

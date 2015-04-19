@@ -1,0 +1,8 @@
+Routing Table for Node No. 2 at Time 120 
+DESINATION PATH COST
+0 	2-0 	11
+1 	2-1 	7
+3 	2-0-3 	30
+4 	2-6-4 	53
+5 	2-6-5 	20
+6 	2-6 	15
